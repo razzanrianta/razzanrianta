@@ -2,6 +2,6 @@
 
 # Hi 👋, I'm Razzan Naufal Rianta
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Engineering+Graduate;Backend+Developer;Laravel+%7C+PHP+Developer;NestJS+%7C+TypeScript+Developer;Machine+Learning+Enthusiast;Embedded+Systems+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Engineering+Graduate;Web+Developer;Laravel+%7C+PHP+Developer;NestJS+%7C+TypeScript+Developer;Machine+Learning+Enthusiast;Embedded+Systems+Developer" alt="Typing SVG" />
 
 </div>
