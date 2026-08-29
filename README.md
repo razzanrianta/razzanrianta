@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Tangerine Shirt
 
-<!--
-**razzanrianta/razzanrianta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student interested in software development,
+backend development, machine learning, and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- TypeScript
+- Python
+- C++
+- PHP
+- NestJS
+- Laravel
+- Vue.js
+- PostgreSQL
+- MySQL
+- Prisma
+- ESP32
+- Git
+- Linux
